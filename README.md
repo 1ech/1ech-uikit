@@ -1,4 +1,4 @@
-# 🥞 Pancake UIkit
+# 🥞 1ech UIkit
 
 **This repository is not used anymore. See the [https://github.com/pancakeswap/pancake-toolkit](Pancake toolkit) instead**
 
